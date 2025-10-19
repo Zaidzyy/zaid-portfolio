@@ -7,33 +7,36 @@ It showcases my skills, projects, experience, and interests in a sleek and inter
 
 ---
 
+---
 
-**Cloning an React project and running locally**
+## **Installation**
 
-### `git clone https://github.com/Zaidzyy/zaid-portfolio.git`
-### `cd zaid-portfolio`
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/zaidzyy/zaid-portfolio.git
+cd zaid-portfolio
 
-**Run this following commands**
-### `npm i` 
-this will load all the dependencies that the app requires
 
-### `npm start` 
-it will start your react app
+```
 
+## **Usage**
+
+### **Step 1: Load Dependencies**
+
+```bash
+npm i
+```
+
+### **Start the Site**
+
+```bash
+npm start
+```
 Now go to http://localhost:3000/ to visit your app
 
 
 📸 Preview
 
-![Portfolio Screenshot](/demo_image.jpg)
+![Portfolio Screenshot](Demo_image.jpg)
 
 
-💡 Key Learnings
-
-Building responsive layouts with Tailwind CSS utilities.
-
-Component-based architecture with React.
-
-Implementing smooth animations using Framer Motion.
-
-Version control and project structuring best practices.
