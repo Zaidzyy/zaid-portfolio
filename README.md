@@ -1,12 +1,11 @@
-**🧑‍💻 Personal Portfolio Website**
+# **🧑‍💻 Personal Portfolio Website**
 
 Live Demo: https://your-portfolio-link.vercel.app
 
-
-🌐 Overview
-
 This project is a modern, responsive personal portfolio website built entirely using React.js and Tailwind CSS.
 It showcases my skills, projects, experience, and interests in a sleek and interactive interface, serving as a central hub for everything about me — from my technical journey to my creative work.
+
+---
 
 
 **Cloning an React project and running locally**
