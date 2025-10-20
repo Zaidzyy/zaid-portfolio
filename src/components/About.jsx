@@ -37,7 +37,7 @@ const About = () => {
               ✍️ My expertise is validated by comprehensive professional training, most notably the IBM Ethical Hacking Professional Certificate and zSecurity Red Team Certifications. I use this offensive mindset—complemented by core defensive and analytical credentials like the ISC2 CC, Google Cybersecurity, and Cloud Security certifications—to master the full security lifecycle. I am driven by the thrill of discovering vulnerabilities and providing actionable remediation for high-stakes environments. </p>
 
             <ButtonLink
-              url='https://drive.google.com/file/d/1pzwYN8AZJP2TGvTlB4emaG3T99FSZYJ_/view?usp=sharing'
+              url='https://drive.google.com/file/d/15tolHnzSxgAKpz7zp13Xcu2cybE_IDty/view?usp=sharing'
               text='View Resume →'
               padding={`p-3`}
             />
