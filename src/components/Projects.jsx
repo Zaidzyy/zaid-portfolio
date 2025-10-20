@@ -79,7 +79,7 @@ export const project = [
     },
     {
         title:'Zaid Portfolio',
-        description:'This project is a stunning portfolio that I exclusively designed for myself using React JS and tailwind CSS.This Project serves as a representation of a my work, highlighting everuthing about me and my intrests, projects, experiences.',
+        description:'This project is a stunning portfolio that I exclusively designed for myself using React JS and tailwind CSS.This Project serves as a representation of a my work, highlighting everuthing about me and my intrests, projects, certifications and experiences.',
         image: {port},
         git:"https://github.com/zaidzyy/zaid-portfolio",
         technologies:[ 'React JS', 'tailwind CSS', 'HTML']
