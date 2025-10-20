@@ -3,7 +3,7 @@
 Live Demo: [https://your-portfolio-link.vercel.app](https://zaid-portfolio-chi.vercel.app/)
 
 This project is a modern, responsive personal portfolio website built entirely using React.js and Tailwind CSS.
-It showcases my skills, projects, experience, and interests in a sleek and interactive interface, serving as a central hub for everything about me — from my technical journey to my creative work.
+It showcases my skills, certifications, projects, experience, and interests in a sleek and interactive interface, serving as a central hub for everything about me — from my technical journey to my creative work.
 
 ---
 
@@ -13,6 +13,7 @@ It showcases my skills, projects, experience, and interests in a sleek and inter
 ![Portfolio Screenshot](Demo_image2.jpg)
 ![Portfolio Screenshot](Demo_image3.jpg)
 ![Portfolio Screenshot](Demo_image4.jpg)
+![Portfolio Screenshot](cert_image.jpg)
 
 ---
 
